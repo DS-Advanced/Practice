@@ -1,0 +1,6 @@
+,row_id,age,gender,view_position,Image_name,detected
+0,id_0,45,M,0,scan_0000.png,class_3
+1,id_1,57,F,0,scan_0001.png,class_3
+2,id_10,58,M,0,scan_00010.png,class_3
+3,id_1000,64,M,0,scan_0001000.png,class_6
+4,id_10000,33,M,1,scan_00010000.png,class_3
